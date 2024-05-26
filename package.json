@@ -1,6 +1,6 @@
 {
   "name": "@alpha7bet/net-npm",
-  "version": "1.0.83",
+  "version": "1.0.84",
   "description": "Description for net-npm",
   "main": "src/index.js",
   "scripts": {
